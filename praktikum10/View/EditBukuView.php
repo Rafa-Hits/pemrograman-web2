@@ -1,4 +1,3 @@
-<?php session_start();?>
 <?php
 if(!isset($_COOKIE['theme'])){
     setcookie('theme', $theme_value);

@@ -18,4 +18,7 @@ switch($REQUEST){
         $aplikasi->hapus();
     break;
 
+    default :
+    $aplikasi-> Jalankan();
+
 }

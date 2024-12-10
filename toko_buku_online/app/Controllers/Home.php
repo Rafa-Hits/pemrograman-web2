@@ -9,19 +9,21 @@ class Home extends BaseController
         return view('index');
     }
 
-    public function cart(){
+    public function cart() {
         return view('cart');
+        
     }
-
-        public function search(){
+    public function search() {
         return view('search');
+        
     }
-
-        public function checkout(){
+    public function checkout() {
         return view('checkout');
+        
+    }
+    public function submit() {
+        return view('submit');
+        
     }
 
-        public function submit(){
-        return view('submit');
-    }
 }

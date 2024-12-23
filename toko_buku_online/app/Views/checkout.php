@@ -19,7 +19,7 @@
                 <th scope="row">1</th>
                 <td>
                     <img src="<?= base_url('images/buku.png'); ?> " alt="" style = "width:150px; height:auto;"> 
-                    <h6>Pengantar Filsafat</h6>
+                    <h6>Atomic Habits</h6>
                 </td>
                 <td>
                     x1
@@ -41,7 +41,7 @@
     <div class="mb-5">
         Emely Smith <br />
         083172293224 <br />
-        nadhifpandia@gmail.com
+        faizaltq30@gmail.com
     </div>
     <h2 class="mb-3">Alamat Pengiriman</h2>
     <div class="mb-5">

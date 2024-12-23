@@ -9,44 +9,44 @@
 <h2 class="mt-5">Buku Best Seller</h2>
 <div class="row gy-3">
     <div class="col-3">
-      <div class="card" style="width: 18rem;">
-        <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Atomic Habits</h5>
-          <p class="card-text">Rp.65.000,00</p>
-          <a href="#" class="btn btn-primary">Add Cart </a>
-        </div>
-      </div>
+    <div class="card" style="width: 18rem;">
+  <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Atomic Habits</h5>
+    <p class="card-text">Rp.65.000,00</p>
+    <a href="#" class="btn btn-primary">Beli Sekarang </a>
+  </div>
+</div>
     </div>
-    <div class="col-3">
-      <div class="card" style="width: 18rem;">
-        <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Atomic Habits</h5>
-          <p class="card-text">Rp.65.000,00</p>
-          <a href="#" class="btn btn-primary">Add Cart </a>
-        </div>
-      </div>
+     <div class="col-3">
+    <div class="card" style="width: 18rem;">
+  <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Atomic Habits</h5>
+    <p class="card-text">Rp.65.000,00</p>
+    <a href="#" class="btn btn-primary">Beli Sekarang </a>
+  </div>
+</div>
     </div>
-    <div class="col-3">
-      <div class="card" style="width: 18rem;">
-        <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Atomic Habits</h5>
-          <p class="card-text">Rp.65.000,00</p>
-          <a href="#" class="btn btn-primary">Add Cart </a>
-        </div>
-      </div>
+     <div class="col-3">
+    <div class="card" style="width: 18rem;">
+  <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Atomic Habits</h5>
+    <p class="card-text">Rp.65.000,00</p>
+    <a href="#" class="btn btn-primary">Beli Sekarang </a>
+  </div>
+</div>
     </div>
-    <div class="col-3">
-      <div class="card" style="width: 18rem;">
-        <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Atomic Habits</h5>
-          <p class="card-text">Rp.65.000,00</p>
-          <a href="#" class="btn btn-primary">Add Cart </a>
-        </div>
-      </div>
-    </div>
+     <div class="col-3">
+    <div class="card" style="width: 18rem;">
+  <img src="<?= base_url('images/buku.png') ?>" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Atomic Habits</h5>
+    <p class="card-text">Rp.65.000,00</p>
+    <a href="#" class="btn btn-primary">Beli Sekarang </a>
+  </div>
+</div>
+</div>
 </div>
 <?=$this->endSection()?>
